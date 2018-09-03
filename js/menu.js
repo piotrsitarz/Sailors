@@ -1,0 +1,1 @@
+var player;function onYouTubePlayerAPIReady(){player=new YT.Player("player",{playerVars:{autoplay:1,controls:0,autohide:1,wmode:"opaque",showinfo:0,loop:1,mute:0,playlist:"FhoKZdnDy7Q"},videoId:"FhoKZdnDy7Q"})}$(document).ready(function(){$("#menu p").click(function(){$("navbar").toggleClass("navbar")})});

@@ -1,0 +1,19 @@
+{
+  "name": "cookies__min_imgcss",
+  "version": "1.0.0",
+  "description": "This is 17th's PSDtoHTML WeeklyWebDevChallenge.\r Enjoy the group: https://www.facebook.com/groups/940002776068923/?fref=ts !",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
